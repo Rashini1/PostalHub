@@ -1,4 +1,4 @@
-# PostalHub - Sri Lanka Post Office Frontend (React + Vite + Tailwind CSS)
+# PostalHub    (React + Vite + Tailwind CSS)
 
 PostalHub is a modern, responsive frontend UI for a Post Office system built using **React**, **Vite**, and **Tailwind CSS**.  
 
